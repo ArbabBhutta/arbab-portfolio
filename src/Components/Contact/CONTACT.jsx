@@ -10,7 +10,7 @@ export default function CONTACT() {
               <div className="container h-100">
                 <div className="row h-100 justify-content-center align-items-center">
                   <div className="col-md-6">
-                    <h1 className="text-center mb-4">Contact Me!</h1>
+                    <h1 className="text-center mt-2 mb-4">Contact Me</h1>
                     <form>
                       <div className="mb-3">
                        
