@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/arbab-portfolio/static/css/main.4a209b47.css",
-    "main.js": "/arbab-portfolio/static/js/main.b2e7aba0.js",
+    "main.js": "/arbab-portfolio/static/js/main.ba1dfc58.js",
     "static/media/booking.jpg": "/arbab-portfolio/static/media/booking.f31993336c1673fa2b5f.jpg",
     "static/media/chat.jpg": "/arbab-portfolio/static/media/chat.0ba9146ff2ad5cebf82f.jpg",
     "static/media/port.jpg": "/arbab-portfolio/static/media/port.c641bc777a070dc61899.jpg",
@@ -12,12 +12,13 @@
     "static/media/ales-nesetril-Im7lZjxeLhg-unsplash.jpg": "/arbab-portfolio/static/media/ales-nesetril-Im7lZjxeLhg-unsplash.37f9618ac10afa3bfcdd.jpg",
     "static/media/shop.jpg": "/arbab-portfolio/static/media/shop.e4f58042dfe2cb331db3.jpg",
     "static/media/Arbab_Resume.pdf": "/arbab-portfolio/static/media/Arbab_Resume.737954b4fd7fbcedf13d.pdf",
+    "static/media/IMG_8302-removebg-preview.jpg": "/arbab-portfolio/static/media/IMG_8302-removebg-preview.09c8889a2e837ef18552.jpg",
     "index.html": "/arbab-portfolio/index.html",
     "main.4a209b47.css.map": "/arbab-portfolio/static/css/main.4a209b47.css.map",
-    "main.b2e7aba0.js.map": "/arbab-portfolio/static/js/main.b2e7aba0.js.map"
+    "main.ba1dfc58.js.map": "/arbab-portfolio/static/js/main.ba1dfc58.js.map"
   },
   "entrypoints": [
     "static/css/main.4a209b47.css",
-    "static/js/main.b2e7aba0.js"
+    "static/js/main.ba1dfc58.js"
   ]
 }
